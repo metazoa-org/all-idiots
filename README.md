@@ -26,6 +26,14 @@ The data are structured to two main categories (artists and groups). Each catego
 
 Last version of ai-db.json has 800 records with 681.518 image links.
 
+*Note: The database is in a very raw state. Image links are not cleaned from duplicites yet.*
+
 ## Cotnribution
 
 Feel free to open PR to add a new data. Feel free to fork this repository for your own use case or research.
+
+## Credits
+
+This dataset was created as one of the (special) outcomes of research project [Decentralized Big Data Collection, Analysis, Visualization and Interpretation in Art Practice](https://datatata.info) supported by Technology Agency of the Czech Republic and Faculty of Fine Arts, Brno Aniversity of Technology.
+
+Collected images and data will be used for deep analysis and training ML algorithms for the purpose of the exhibition AI: All Idiots in the [MeetFactory](http://www.meetfactory.cz/en/) in 2021.
