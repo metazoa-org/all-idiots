@@ -37,3 +37,7 @@ Feel free to open PR to add a new data. Feel free to fork this repository for yo
 This dataset was created as one of the (special) outcomes of research project [Decentralized Big Data Collection, Analysis, Visualization and Interpretation in Art Practice](https://datatata.info) supported by the Technology Agency of the Czech Republic and the Faculty of Fine Arts, Brno Aniversity of Technology.
 
 Collected images and data will be used for deep analysis and training ML algorithms for the purpose of the exhibition AI: All Idiots in the gallery [MeetFactory](http://www.meetfactory.cz/en/) Prague in Autumn 2021.
+
+## Documentation
+
+The documentation of the aforementioned exhibition can be found [here](https://www.galleryreader.com/en/exhibition/ai-all-idiots-2/)
